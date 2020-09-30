@@ -1,7 +1,7 @@
 ### Hi there, I'm Mai - 👋 
 
 
-## I'm a Student, Developer, and Teacher!
+## I'm a Student, Newbie Developer, and Chef!
 
 - 🎓 I’m currently studies in [King Mongkut's Institute of Technology Ladkrabang][website]
 - 🌱 I’m currently learning everything 🤣
