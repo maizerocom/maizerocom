@@ -1,16 +1,21 @@
-### Hi there, I'm Mai - 👋 
+## Hi there, I'm Mai - 👋 
 
 
-## I'm a Student, Newbie Developer, and Chef!
+### I'm a Student, Newbie Developer, and Chef!
 
 - 🎓 I’m currently studies in [King Mongkut's Institute of Technology Ladkrabang][website]
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2020 Goals: Gain more and more new knowledge
 - ⚡ Fun fact: I like to travel and eat
 
-### Spotify Playing 🎧
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=maizerocom&theme=onedark)](https://github.com/DenverCoder1/github-readme-streak-stats)
-[<img src="https://spotify-now-playing.maizerocom.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" align="left"/>](https://open.spotify.com/user/31rz3hpknevoqjeul3tegpfgfz5u)
+<h1 align="left"> My github stats 🎧 </h1>
+
+[<img src="https://spotify-now-playing.maizerocom.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/31rz3hpknevoqjeul3tegpfgfz5u)
+
+<h1 display="inline"> Spotify Playing 🎧 </h1>
+
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=maizerocom&theme=onedark)](https://github.com/DenverCoder1/github-readme-streak-stats)
+
 
 ### Connect with me:
 
