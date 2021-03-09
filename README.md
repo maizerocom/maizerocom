@@ -9,7 +9,8 @@
 - ⚡ Fun fact: I like to travel and eat
 
 ### Spotify Playing 🎧
-[<img src="https://spotify-now-playing.maizerocom.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/31rz3hpknevoqjeul3tegpfgfz5u)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=maizerocom&theme=onedark)](https://github.com/DenverCoder1/github-readme-streak-stats)
+[<img src="https://spotify-now-playing.maizerocom.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" align="left"/>](https://open.spotify.com/user/31rz3hpknevoqjeul3tegpfgfz5u)
 
 ### Connect with me:
 
