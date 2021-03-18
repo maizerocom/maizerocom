@@ -8,7 +8,7 @@
 - 🥅 2021 Goals: Gain more and more new knowledge
 - ⚡ Fun fact: I like to travel and eat
 
-<h1 align="left"> My github stats 🎧 </h1>
+<h1 align="left"> My github stats 🔥 </h1>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=maizerocom&theme=onedark)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
