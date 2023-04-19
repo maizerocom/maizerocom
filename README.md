@@ -2,8 +2,8 @@
 
 
 ### I'm a Student, Newbie Developer, and Chef!
-
-- 🎓 I’m currently studies in [King Mongkut's Institute of Technology Ladkrabang][website]
+- 💻 Software Developer at [Ocean Life Insurance Head office][ocean]
+- 🎓 I graduated from [King Mongkut's Institute of Technology Ladkrabang][website]
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2021 Goals: Gain more and more new knowledge
 - ⚡ Fun fact: I like to travel and eat
@@ -30,6 +30,7 @@
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 
+[ocean]: https://www.ocean.co.th/
 [website]: https://www.kmitl.ac.th/th
 [facebook]: https://www.facebook.com/maizerocom
 [line]: https://line.me/ti/p/HsQGTFeYM0
