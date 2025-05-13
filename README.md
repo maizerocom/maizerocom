@@ -12,10 +12,6 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=maizerocom&theme=onedark)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
-<h2 display="inline"> Spotify Playing 🎧 </h1>
-
-[<img src="https://spotify-now-playing.maizerocom.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/31rz3hpknevoqjeul3tegpfgfz5u)
-
 ### Connect with me:
 
 [<img align="left" alt="maizerocom | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
